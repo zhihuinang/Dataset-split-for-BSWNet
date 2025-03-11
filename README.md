@@ -3,7 +3,7 @@ Detailed description of the dataset split for BSWNet. This dataset split is used
 
 ## ShipsEar
 
-To ensure data balance, a 5-class subset from ShipsEar is utilized as the experimental dataset. we randomly picked 20% recordings in each class for validation and 10% recordings to form a test set. If the number of recordings in a class is less than 10, we use the same data for validation and test.
+To ensure data balance, a 5-class subset from [ShipsEar](https://underwaternoise.atlanttic.uvigo.es/) is utilized as the experimental dataset. We randomly picked 20% recordings in each class for validation and 10% recordings to form a test set. If the number of recordings in a class is less than 10, we use the same data for validation and test.
 
 The detailed split is as follows:
 
